@@ -1,0 +1,38 @@
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.exe
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.deps.json
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.runtimeconfig.json
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.runtimeconfig.dev.json
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.dll
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.pdb
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart_MarkupCompile.cache
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart_MarkupCompile.lref
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.g.resources
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.AssemblyInfoInputs.cache
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.AssemblyInfo.cs
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.csproj.CoreCompileInputs.cache
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.dll
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.pdb
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.genruntimeconfig.cache
+E:\Code Practice Vrajarshi\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.exe
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.deps.json
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.runtimeconfig.json
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.runtimeconfig.dev.json
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.dll
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\bin\Debug\netcoreapp3.1\RestaurantMenuCart.pdb
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart_MarkupCompile.cache
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart_MarkupCompile.lref
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.g.resources
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.AssemblyInfo.cs
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.dll
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.pdb
+C:\Users\dell\Desktop\RestaurantMenuCart\RestaurantMenuCart\obj\Debug\netcoreapp3.1\RestaurantMenuCart.genruntimeconfig.cache
